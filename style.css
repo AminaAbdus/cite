@@ -1,4 +1,5 @@
 body {
-    font-family:  color white SIMPLEX;
+    font-family: SIMPLEX;
+    color: white;
     background-image: linear-gradient(blue,lightblue);
 }
